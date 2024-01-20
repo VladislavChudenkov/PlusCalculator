@@ -1,0 +1,4 @@
+﻿  Pluscalculator.cpp
+C:\Users\98669\Documents\Pluscalculator\Pluscalculator\Pluscalculator.cpp(66,40): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\98669\Documents\Pluscalculator\Pluscalculator\Pluscalculator.cpp(66,75): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Pluscalculator.vcxproj -> C:\Users\98669\Documents\Pluscalculator\x64\Debug\Pluscalculator.exe
